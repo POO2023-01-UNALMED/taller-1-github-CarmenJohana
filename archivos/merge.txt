@@ -5,3 +5,6 @@ Aspiraciones
 
 - Ampliar mis conocimientos en programación
 - Desarrollar mi primera aplicación
+Al estar vacía, la carpeta archivos no fue reconocida.
+
+Debemos tener cuidado en el manejo de los commits y en la manipulación de tales archivos a fin de evitar daños o errores en el proyecto.
