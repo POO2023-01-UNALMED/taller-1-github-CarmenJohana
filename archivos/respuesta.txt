@@ -1,1 +1,1 @@
-Al estar vacía, la carpeta archivos no fue reconocida.
+GitHub Desktop no permite realizar un commit para incluir la carpeta archivos.
